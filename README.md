@@ -1,0 +1,1 @@
+This is a project that calculates your pace in mph in relation to miles in an hour which 60 minutes
